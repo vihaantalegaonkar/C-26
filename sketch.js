@@ -6,6 +6,7 @@ var engine, world;
 var box1, pig1;
 var backgroundImg,platform;
 
+// vihaan edited this file
 function preload() {
     backgroundImg = loadImage("sprites/bg.png");
 }
